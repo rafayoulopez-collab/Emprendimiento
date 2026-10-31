@@ -1,0 +1,9 @@
+RADI — HTML y CSS puro
+
+Sube index.html, style.css y la carpeta assets a la raíz de tu repositorio en GitHub, conservando los nombres y carpetas.
+
+index.html contiene el contenido y los precios.
+style.css contiene los estilos.
+assets contiene las imágenes.
+
+También puedes copiar el contenido de index.html desde un editor de texto, pero debes subir style.css y assets para que se vea correctamente.
